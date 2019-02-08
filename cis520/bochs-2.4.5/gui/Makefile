@@ -19,7 +19,7 @@
 
 .SUFFIXES: .cc
 
-prefix          = /home/p/pc6/cis520/usr/local
+prefix          = /home/p/pc6/CIS520Pintos/cis520/usr/local
 exec_prefix     = ${prefix}
 srcdir          = .
 
